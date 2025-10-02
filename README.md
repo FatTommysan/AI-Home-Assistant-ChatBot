@@ -1,2 +1,8 @@
 # AI Home Assistant ChatBot
 
+This project is currently under development. The code will be published to GitHub for everyone after I finish the product design for the project.
+
+This project uses a Raspberry Pi to operate an AI Model and a ESP32 to control the appliances in the house.
+Below is a demonstration video of my current project progress. (2 October 2025)
+
+![Demo](./demo/video.mp4)
